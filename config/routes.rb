@@ -1,9 +1,30 @@
 LooperI::Application.routes.draw do
+  devise_for :admin_users, ActiveAdmin::Devise.config
+
+  root 'welcome#index'
+  
+  namespace :appapi, :defaults => {:format => :json} do
+    namespace :v1 do
+      resources :event do
+        member do
+          get 'index'
+          post 'create'
+        end
+      end
+    end
+  end
+
+  ActiveAdmin.routes(self)
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
-  # root 'welcome#index'
+  
+  # post 'api/v1/addEvent' => 'api_home#addEvent'
+  # get  'api/v1/allEvents' => 'api_home#allEvents'
+
+  
+
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
