@@ -11,16 +11,10 @@ class APPAPI::V1::EventController < ApplicationController
 		cookies['XSRF-TOKEN'] = form_authenticity_token if protect_against_forgery?
 	end
 
-
-                       
-# AddLocation : $scope.addEvent.location,
-# 			AddPlace : $scope.addEvent.place,
-# 			AddDescription : $scope.addEvent.description,
-# 			AddDate : $scope.addEvent.date,
-# 			AddTime : $scope.addEvent.time
 			
 	def index
-		@place = Place.all.order('created_at DESC')
+		# Paginated the pages so a limit amount of data is always sent to user
+		@place = Place.order('created_at DESC').page(params[:page]).per_page(2)
 		
 		respond_to do |format|
 	    	format.json { render :json => @place, :callback => params['callback'] }
