@@ -14,11 +14,35 @@ class APPAPI::V1::EventController < ApplicationController
 			
 	def index
 		# Paginated the pages so a limit amount of data is always sent to user
-		@place = Place.order('created_at DESC').page(params[:page]).per_page(2)
-		
+		@events = Place.order('created_at DESC').page(params[:page]).per_page(10)
+		# :json => @users.as_json(:only => [:first_name, :state])
+		if @events==[]
+			returnString = {
+				:events=>@events,
+				:page=>params[:page],
+				:empty=>true,
+
+			}
+		else 
+			returnString = {
+				:events=>@events,
+				:page=>params[:page],
+				:empty=>false
+			}
+		end
 		respond_to do |format|
-	    	format.json { render :json => @place, :callback => params['callback'] }
+	    	format.json { render :json =>returnString, :callback => params['callback'] }
 	    end		
+	end
+
+	def as_json(options={})
+		super(
+			:only => [:location,:place,:description,:time,:date],
+			:include => {
+				:employers => {:only => [:title]},
+				:roles => {:only => [:name]}
+				}
+			)
 	end
 
 =begin

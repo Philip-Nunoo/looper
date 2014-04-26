@@ -232,3 +232,484 @@ I, [2014-04-20T07:03:08.276013 #24109]  INFO -- : 0:  sqlite3 (1.3.8) from /home
 I, [2014-04-20T07:03:08.277591 #24109]  INFO -- : 0:  turbolinks (2.1.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/turbolinks-2.1.0.gemspec
 I, [2014-04-20T07:03:08.279189 #24109]  INFO -- : 0:  uglifier (2.4.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/uglifier-2.4.0.gemspec
 I, [2014-04-20T07:03:08.280813 #24109]  INFO -- : 0:  will_paginate (3.0.5) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/will_paginate-3.0.5.gemspec
+I, [2014-04-20T11:02:53.256098 #376]  INFO -- : 0:  rake (10.3.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rake-10.3.0.gemspec
+I, [2014-04-20T11:02:53.284063 #376]  INFO -- : 0:  i18n (0.6.9) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/i18n-0.6.9.gemspec
+I, [2014-04-20T11:02:53.285675 #376]  INFO -- : 0:  minitest (4.7.5) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/minitest-4.7.5.gemspec
+I, [2014-04-20T11:02:53.289670 #376]  INFO -- : 0:  multi_json (1.9.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/multi_json-1.9.2.gemspec
+I, [2014-04-20T11:02:53.294276 #376]  INFO -- : 0:  thread_safe (0.3.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/thread_safe-0.3.3.gemspec
+I, [2014-04-20T11:02:53.296228 #376]  INFO -- : 0:  tzinfo (0.3.39) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/tzinfo-0.3.39.gemspec
+I, [2014-04-20T11:02:53.298154 #376]  INFO -- : 0:  activesupport (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activesupport-4.0.2.gemspec
+I, [2014-04-20T11:02:53.300059 #376]  INFO -- : 0:  builder (3.1.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/builder-3.1.4.gemspec
+I, [2014-04-20T11:02:53.301899 #376]  INFO -- : 0:  erubis (2.7.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/erubis-2.7.0.gemspec
+I, [2014-04-20T11:02:53.303829 #376]  INFO -- : 0:  rack (1.5.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-04-20T11:02:53.305711 #376]  INFO -- : 0:  rack-test (0.6.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rack-test-0.6.2.gemspec
+I, [2014-04-20T11:02:53.307641 #376]  INFO -- : 0:  actionpack (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/actionpack-4.0.2.gemspec
+I, [2014-04-20T11:02:53.314249 #376]  INFO -- : 0:  mime-types (1.25.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/mime-types-1.25.1.gemspec
+I, [2014-04-20T11:02:53.316203 #376]  INFO -- : 0:  polyglot (0.3.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/polyglot-0.3.4.gemspec
+I, [2014-04-20T11:02:53.318125 #376]  INFO -- : 0:  treetop (1.4.15) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/treetop-1.4.15.gemspec
+I, [2014-04-20T11:02:53.320053 #376]  INFO -- : 0:  mail (2.5.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/mail-2.5.4.gemspec
+I, [2014-04-20T11:02:53.321946 #376]  INFO -- : 0:  actionmailer (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/actionmailer-4.0.2.gemspec
+I, [2014-04-20T11:02:53.323872 #376]  INFO -- : 0:  arbre (1.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/arbre-1.0.1.gemspec
+I, [2014-04-20T11:02:53.325700 #376]  INFO -- : 0:  sass (3.2.13) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sass-3.2.13.gemspec
+I, [2014-04-20T11:02:53.327610 #376]  INFO -- : 0:  thor (0.19.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/thor-0.19.1.gemspec
+I, [2014-04-20T11:02:53.329462 #376]  INFO -- : 0:  bourbon (3.1.8) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/bourbon-3.1.8.gemspec
+I, [2014-04-20T11:02:53.331439 #376]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-04-20T11:02:53.333333 #376]  INFO -- : 0:  execjs (2.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/execjs-2.0.2.gemspec
+I, [2014-04-20T11:02:53.335209 #376]  INFO -- : 0:  coffee-script (2.2.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-script-2.2.0.gemspec
+I, [2014-04-20T11:02:53.337124 #376]  INFO -- : 0:  railties (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/railties-4.0.2.gemspec
+I, [2014-04-20T11:02:53.339000 #376]  INFO -- : 0:  coffee-rails (4.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-04-20T11:02:53.340898 #376]  INFO -- : 0:  bcrypt (3.1.7) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/bcrypt-3.1.7.gemspec
+I, [2014-04-20T11:02:53.342942 #376]  INFO -- : 0:  orm_adapter (0.5.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/orm_adapter-0.5.0.gemspec
+I, [2014-04-20T11:02:53.344816 #376]  INFO -- : 0:  warden (1.2.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/warden-1.2.3.gemspec
+I, [2014-04-20T11:02:53.346788 #376]  INFO -- : 0:  devise (3.2.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/devise-3.2.4.gemspec
+I, [2014-04-20T11:02:53.348696 #376]  INFO -- : 0:  formtastic (2.3.0.rc3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/formtastic-2.3.0.rc3.gemspec
+I, [2014-04-20T11:02:53.350637 #376]  INFO -- : 0:  has_scope (0.6.0.rc) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/has_scope-0.6.0.rc.gemspec
+I, [2014-04-20T11:02:53.352480 #376]  INFO -- : 0:  responders (1.0.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/responders-1.0.0.gemspec
+I, [2014-04-20T11:02:53.354963 #376]  INFO -- : 0:  inherited_resources (1.4.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/inherited_resources-1.4.1.gemspec
+I, [2014-04-20T11:02:53.356939 #376]  INFO -- : 0:  jquery-rails (3.1.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-04-20T11:02:53.359176 #376]  INFO -- : 0:  jquery-ui-rails (4.2.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/jquery-ui-rails-4.2.0.gemspec
+I, [2014-04-20T11:02:53.361179 #376]  INFO -- : 0:  kaminari (0.15.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/kaminari-0.15.1.gemspec
+I, [2014-04-20T11:02:53.363140 #376]  INFO -- : 0:  activemodel (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activemodel-4.0.2.gemspec
+I, [2014-04-20T11:02:53.364950 #376]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-04-20T11:02:53.366991 #376]  INFO -- : 0:  arel (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/arel-4.0.2.gemspec
+I, [2014-04-20T11:02:53.368873 #376]  INFO -- : 0:  activerecord (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activerecord-4.0.2.gemspec
+I, [2014-04-20T11:02:53.370747 #376]  INFO -- : 0:  bundler (1.5.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/bundler-1.5.1.gemspec
+I, [2014-04-20T11:02:53.372597 #376]  INFO -- : 0:  hike (1.2.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/hike-1.2.3.gemspec
+I, [2014-04-20T11:02:53.374938 #376]  INFO -- : 0:  tilt (1.4.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-04-20T11:02:53.377581 #376]  INFO -- : 0:  sprockets (2.11.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sprockets-2.11.0.gemspec
+I, [2014-04-20T11:02:53.379919 #376]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-04-20T11:02:53.382264 #376]  INFO -- : 0:  rails (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rails-4.0.2.gemspec
+I, [2014-04-20T11:02:53.384609 #376]  INFO -- : 0:  polyamorous (1.0.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/polyamorous-1.0.0.gemspec
+I, [2014-04-20T11:02:53.386943 #376]  INFO -- : 0:  ransack (1.2.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/ransack-1.2.2.gemspec
+I, [2014-04-20T11:02:53.390713 #376]  INFO -- : 0:  sass-rails (4.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sass-rails-4.0.1.gemspec
+I, [2014-04-20T11:02:56.554688 #376]  INFO -- : 0:  activeadmin (1.0.0.pre) from /home/philip/.rvm/gems/ruby-2.0.0-p353/bundler/gems/active_admin-5b7fa25b1e0d/activeadmin.gemspec
+I, [2014-04-20T11:02:56.556557 #376]  INFO -- : 0:  faker (1.2.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/faker-1.2.0.gemspec
+I, [2014-04-20T11:02:56.558150 #376]  INFO -- : 0:  jbuilder (1.5.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/jbuilder-1.5.3.gemspec
+I, [2014-04-20T11:02:56.559699 #376]  INFO -- : 0:  json (1.8.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+I, [2014-04-20T11:02:56.561254 #376]  INFO -- : 0:  rdoc (3.12.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rdoc-3.12.2.gemspec
+I, [2014-04-20T11:02:56.563724 #376]  INFO -- : 0:  sdoc (0.3.20) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sdoc-0.3.20.gemspec
+I, [2014-04-20T11:02:56.565820 #376]  INFO -- : 0:  sqlite3 (1.3.8) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sqlite3-1.3.8.gemspec
+I, [2014-04-20T11:02:56.567924 #376]  INFO -- : 0:  turbolinks (2.1.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/turbolinks-2.1.0.gemspec
+I, [2014-04-20T11:02:56.569976 #376]  INFO -- : 0:  uglifier (2.4.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/uglifier-2.4.0.gemspec
+I, [2014-04-20T11:02:56.572092 #376]  INFO -- : 0:  will_paginate (3.0.5) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/will_paginate-3.0.5.gemspec
+I, [2014-04-26T12:19:51.320808 #30402]  INFO -- : 0:  rake (10.3.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rake-10.3.0.gemspec
+I, [2014-04-26T12:19:51.343746 #30402]  INFO -- : 0:  i18n (0.6.9) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/i18n-0.6.9.gemspec
+I, [2014-04-26T12:19:51.346251 #30402]  INFO -- : 0:  minitest (4.7.5) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/minitest-4.7.5.gemspec
+I, [2014-04-26T12:19:51.348639 #30402]  INFO -- : 0:  multi_json (1.9.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/multi_json-1.9.2.gemspec
+I, [2014-04-26T12:19:51.351006 #30402]  INFO -- : 0:  thread_safe (0.3.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/thread_safe-0.3.3.gemspec
+I, [2014-04-26T12:19:51.353385 #30402]  INFO -- : 0:  tzinfo (0.3.39) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/tzinfo-0.3.39.gemspec
+I, [2014-04-26T12:19:51.355506 #30402]  INFO -- : 0:  activesupport (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activesupport-4.0.2.gemspec
+I, [2014-04-26T12:19:51.357071 #30402]  INFO -- : 0:  builder (3.1.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/builder-3.1.4.gemspec
+I, [2014-04-26T12:19:51.358684 #30402]  INFO -- : 0:  erubis (2.7.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/erubis-2.7.0.gemspec
+I, [2014-04-26T12:19:51.360285 #30402]  INFO -- : 0:  rack (1.5.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-04-26T12:19:51.361810 #30402]  INFO -- : 0:  rack-test (0.6.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rack-test-0.6.2.gemspec
+I, [2014-04-26T12:19:51.363474 #30402]  INFO -- : 0:  actionpack (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/actionpack-4.0.2.gemspec
+I, [2014-04-26T12:19:51.365004 #30402]  INFO -- : 0:  mime-types (1.25.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/mime-types-1.25.1.gemspec
+I, [2014-04-26T12:19:51.366619 #30402]  INFO -- : 0:  polyglot (0.3.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/polyglot-0.3.4.gemspec
+I, [2014-04-26T12:19:51.368165 #30402]  INFO -- : 0:  treetop (1.4.15) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/treetop-1.4.15.gemspec
+I, [2014-04-26T12:19:51.369691 #30402]  INFO -- : 0:  mail (2.5.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/mail-2.5.4.gemspec
+I, [2014-04-26T12:19:51.372154 #30402]  INFO -- : 0:  actionmailer (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/actionmailer-4.0.2.gemspec
+I, [2014-04-26T12:19:51.373728 #30402]  INFO -- : 0:  arbre (1.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/arbre-1.0.1.gemspec
+I, [2014-04-26T12:19:51.375311 #30402]  INFO -- : 0:  sass (3.2.13) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sass-3.2.13.gemspec
+I, [2014-04-26T12:19:51.376964 #30402]  INFO -- : 0:  thor (0.19.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/thor-0.19.1.gemspec
+I, [2014-04-26T12:19:51.378499 #30402]  INFO -- : 0:  bourbon (3.1.8) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/bourbon-3.1.8.gemspec
+I, [2014-04-26T12:19:51.380197 #30402]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-04-26T12:19:51.381721 #30402]  INFO -- : 0:  execjs (2.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/execjs-2.0.2.gemspec
+I, [2014-04-26T12:19:51.383315 #30402]  INFO -- : 0:  coffee-script (2.2.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-script-2.2.0.gemspec
+I, [2014-04-26T12:19:51.384951 #30402]  INFO -- : 0:  railties (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/railties-4.0.2.gemspec
+I, [2014-04-26T12:19:51.386502 #30402]  INFO -- : 0:  coffee-rails (4.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-04-26T12:19:51.388066 #30402]  INFO -- : 0:  bcrypt (3.1.7) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/bcrypt-3.1.7.gemspec
+I, [2014-04-26T12:19:51.389572 #30402]  INFO -- : 0:  orm_adapter (0.5.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/orm_adapter-0.5.0.gemspec
+I, [2014-04-26T12:19:51.391182 #30402]  INFO -- : 0:  warden (1.2.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/warden-1.2.3.gemspec
+I, [2014-04-26T12:19:51.392753 #30402]  INFO -- : 0:  devise (3.2.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/devise-3.2.4.gemspec
+I, [2014-04-26T12:19:51.394315 #30402]  INFO -- : 0:  formtastic (2.3.0.rc3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/formtastic-2.3.0.rc3.gemspec
+I, [2014-04-26T12:19:51.395942 #30402]  INFO -- : 0:  has_scope (0.6.0.rc) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/has_scope-0.6.0.rc.gemspec
+I, [2014-04-26T12:19:51.397558 #30402]  INFO -- : 0:  responders (1.0.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/responders-1.0.0.gemspec
+I, [2014-04-26T12:19:51.399142 #30402]  INFO -- : 0:  inherited_resources (1.4.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/inherited_resources-1.4.1.gemspec
+I, [2014-04-26T12:19:51.400700 #30402]  INFO -- : 0:  jquery-rails (3.1.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-04-26T12:19:51.402252 #30402]  INFO -- : 0:  jquery-ui-rails (4.2.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/jquery-ui-rails-4.2.0.gemspec
+I, [2014-04-26T12:19:51.403931 #30402]  INFO -- : 0:  kaminari (0.15.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/kaminari-0.15.1.gemspec
+I, [2014-04-26T12:19:51.405498 #30402]  INFO -- : 0:  activemodel (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activemodel-4.0.2.gemspec
+I, [2014-04-26T12:19:51.407089 #30402]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-04-26T12:19:51.408661 #30402]  INFO -- : 0:  arel (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/arel-4.0.2.gemspec
+I, [2014-04-26T12:19:51.410221 #30402]  INFO -- : 0:  activerecord (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activerecord-4.0.2.gemspec
+I, [2014-04-26T12:19:51.411765 #30402]  INFO -- : 0:  bundler (1.5.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/bundler-1.5.1.gemspec
+I, [2014-04-26T12:19:51.413345 #30402]  INFO -- : 0:  hike (1.2.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/hike-1.2.3.gemspec
+I, [2014-04-26T12:19:51.414952 #30402]  INFO -- : 0:  tilt (1.4.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-04-26T12:19:51.416571 #30402]  INFO -- : 0:  sprockets (2.11.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sprockets-2.11.0.gemspec
+I, [2014-04-26T12:19:51.418076 #30402]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-04-26T12:19:51.419661 #30402]  INFO -- : 0:  rails (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rails-4.0.2.gemspec
+I, [2014-04-26T12:19:51.421282 #30402]  INFO -- : 0:  polyamorous (1.0.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/polyamorous-1.0.0.gemspec
+I, [2014-04-26T12:19:51.422872 #30402]  INFO -- : 0:  ransack (1.2.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/ransack-1.2.2.gemspec
+I, [2014-04-26T12:19:51.424431 #30402]  INFO -- : 0:  sass-rails (4.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sass-rails-4.0.1.gemspec
+I, [2014-04-26T12:19:53.483030 #30402]  INFO -- : 0:  activeadmin (1.0.0.pre) from /home/philip/.rvm/gems/ruby-2.0.0-p353/bundler/gems/active_admin-5b7fa25b1e0d/activeadmin.gemspec
+I, [2014-04-26T12:19:53.485717 #30402]  INFO -- : 0:  faker (1.2.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/faker-1.2.0.gemspec
+I, [2014-04-26T12:19:53.488098 #30402]  INFO -- : 0:  jbuilder (1.5.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/jbuilder-1.5.3.gemspec
+I, [2014-04-26T12:19:53.490377 #30402]  INFO -- : 0:  json (1.8.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+I, [2014-04-26T12:19:57.033046 #30402]  INFO -- : 0:  rails_serve_static_assets (0.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rails_serve_static_assets-0.0.2.gemspec
+I, [2014-04-26T12:20:01.189247 #30402]  INFO -- : 0:  rails_stdout_logging (0.0.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rails_stdout_logging-0.0.3.gemspec
+I, [2014-04-26T12:20:04.501358 #30402]  INFO -- : 0:  rails_12factor (0.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rails_12factor-0.0.2.gemspec
+I, [2014-04-26T12:20:04.503234 #30402]  INFO -- : 0:  rdoc (3.12.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rdoc-3.12.2.gemspec
+I, [2014-04-26T12:20:04.504827 #30402]  INFO -- : 0:  sdoc (0.3.20) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sdoc-0.3.20.gemspec
+I, [2014-04-26T12:20:04.506730 #30402]  INFO -- : 0:  sqlite3 (1.3.8) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sqlite3-1.3.8.gemspec
+I, [2014-04-26T12:20:04.508564 #30402]  INFO -- : 0:  turbolinks (2.1.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/turbolinks-2.1.0.gemspec
+I, [2014-04-26T12:20:04.510146 #30402]  INFO -- : 0:  uglifier (2.4.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/uglifier-2.4.0.gemspec
+I, [2014-04-26T12:20:04.512637 #30402]  INFO -- : 0:  will_paginate (3.0.5) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/will_paginate-3.0.5.gemspec
+I, [2014-04-26T12:21:41.830638 #30556]  INFO -- : 0:  rake (10.3.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rake-10.3.0.gemspec
+I, [2014-04-26T12:21:41.833346 #30556]  INFO -- : 0:  i18n (0.6.9) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/i18n-0.6.9.gemspec
+I, [2014-04-26T12:21:41.835183 #30556]  INFO -- : 0:  minitest (4.7.5) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/minitest-4.7.5.gemspec
+I, [2014-04-26T12:21:41.836801 #30556]  INFO -- : 0:  multi_json (1.9.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/multi_json-1.9.2.gemspec
+I, [2014-04-26T12:21:41.838385 #30556]  INFO -- : 0:  thread_safe (0.3.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/thread_safe-0.3.3.gemspec
+I, [2014-04-26T12:21:41.840101 #30556]  INFO -- : 0:  tzinfo (0.3.39) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/tzinfo-0.3.39.gemspec
+I, [2014-04-26T12:21:41.841783 #30556]  INFO -- : 0:  activesupport (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activesupport-4.0.2.gemspec
+I, [2014-04-26T12:21:41.843489 #30556]  INFO -- : 0:  builder (3.1.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/builder-3.1.4.gemspec
+I, [2014-04-26T12:21:41.845123 #30556]  INFO -- : 0:  erubis (2.7.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/erubis-2.7.0.gemspec
+I, [2014-04-26T12:21:41.846768 #30556]  INFO -- : 0:  rack (1.5.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-04-26T12:21:41.848333 #30556]  INFO -- : 0:  rack-test (0.6.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rack-test-0.6.2.gemspec
+I, [2014-04-26T12:21:41.849932 #30556]  INFO -- : 0:  actionpack (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/actionpack-4.0.2.gemspec
+I, [2014-04-26T12:21:41.851743 #30556]  INFO -- : 0:  mime-types (1.25.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/mime-types-1.25.1.gemspec
+I, [2014-04-26T12:21:41.853364 #30556]  INFO -- : 0:  polyglot (0.3.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/polyglot-0.3.4.gemspec
+I, [2014-04-26T12:21:41.855099 #30556]  INFO -- : 0:  treetop (1.4.15) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/treetop-1.4.15.gemspec
+I, [2014-04-26T12:21:41.856798 #30556]  INFO -- : 0:  mail (2.5.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/mail-2.5.4.gemspec
+I, [2014-04-26T12:21:41.858418 #30556]  INFO -- : 0:  actionmailer (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/actionmailer-4.0.2.gemspec
+I, [2014-04-26T12:21:41.860160 #30556]  INFO -- : 0:  arbre (1.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/arbre-1.0.1.gemspec
+I, [2014-04-26T12:21:41.861794 #30556]  INFO -- : 0:  sass (3.2.13) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sass-3.2.13.gemspec
+I, [2014-04-26T12:21:41.863487 #30556]  INFO -- : 0:  thor (0.19.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/thor-0.19.1.gemspec
+I, [2014-04-26T12:21:41.865032 #30556]  INFO -- : 0:  bourbon (3.1.8) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/bourbon-3.1.8.gemspec
+I, [2014-04-26T12:21:41.866701 #30556]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-04-26T12:21:41.868276 #30556]  INFO -- : 0:  execjs (2.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/execjs-2.0.2.gemspec
+I, [2014-04-26T12:21:41.869878 #30556]  INFO -- : 0:  coffee-script (2.2.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-script-2.2.0.gemspec
+I, [2014-04-26T12:21:41.871589 #30556]  INFO -- : 0:  railties (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/railties-4.0.2.gemspec
+I, [2014-04-26T12:21:41.873261 #30556]  INFO -- : 0:  coffee-rails (4.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-04-26T12:21:41.875033 #30556]  INFO -- : 0:  bcrypt (3.1.7) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/bcrypt-3.1.7.gemspec
+I, [2014-04-26T12:21:41.876721 #30556]  INFO -- : 0:  orm_adapter (0.5.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/orm_adapter-0.5.0.gemspec
+I, [2014-04-26T12:21:41.878380 #30556]  INFO -- : 0:  warden (1.2.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/warden-1.2.3.gemspec
+I, [2014-04-26T12:21:41.880195 #30556]  INFO -- : 0:  devise (3.2.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/devise-3.2.4.gemspec
+I, [2014-04-26T12:21:41.881795 #30556]  INFO -- : 0:  formtastic (2.3.0.rc3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/formtastic-2.3.0.rc3.gemspec
+I, [2014-04-26T12:21:41.883451 #30556]  INFO -- : 0:  has_scope (0.6.0.rc) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/has_scope-0.6.0.rc.gemspec
+I, [2014-04-26T12:21:41.885017 #30556]  INFO -- : 0:  responders (1.0.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/responders-1.0.0.gemspec
+I, [2014-04-26T12:21:41.886691 #30556]  INFO -- : 0:  inherited_resources (1.4.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/inherited_resources-1.4.1.gemspec
+I, [2014-04-26T12:21:41.888347 #30556]  INFO -- : 0:  jquery-rails (3.1.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-04-26T12:21:41.889996 #30556]  INFO -- : 0:  jquery-ui-rails (4.2.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/jquery-ui-rails-4.2.0.gemspec
+I, [2014-04-26T12:21:41.891763 #30556]  INFO -- : 0:  kaminari (0.15.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/kaminari-0.15.1.gemspec
+I, [2014-04-26T12:21:41.893407 #30556]  INFO -- : 0:  activemodel (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activemodel-4.0.2.gemspec
+I, [2014-04-26T12:21:41.895103 #30556]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-04-26T12:21:41.896711 #30556]  INFO -- : 0:  arel (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/arel-4.0.2.gemspec
+I, [2014-04-26T12:21:41.898416 #30556]  INFO -- : 0:  activerecord (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activerecord-4.0.2.gemspec
+I, [2014-04-26T12:21:41.902140 #30556]  INFO -- : 0:  bundler (1.5.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/bundler-1.5.1.gemspec
+I, [2014-04-26T12:21:41.903864 #30556]  INFO -- : 0:  hike (1.2.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/hike-1.2.3.gemspec
+I, [2014-04-26T12:21:41.905958 #30556]  INFO -- : 0:  tilt (1.4.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-04-26T12:21:41.907734 #30556]  INFO -- : 0:  sprockets (2.11.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sprockets-2.11.0.gemspec
+I, [2014-04-26T12:21:41.909312 #30556]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-04-26T12:21:41.910980 #30556]  INFO -- : 0:  rails (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rails-4.0.2.gemspec
+I, [2014-04-26T12:21:41.912639 #30556]  INFO -- : 0:  polyamorous (1.0.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/polyamorous-1.0.0.gemspec
+I, [2014-04-26T12:21:41.914218 #30556]  INFO -- : 0:  ransack (1.2.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/ransack-1.2.2.gemspec
+I, [2014-04-26T12:21:41.920124 #30556]  INFO -- : 0:  sass-rails (4.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sass-rails-4.0.1.gemspec
+I, [2014-04-26T12:21:43.967286 #30556]  INFO -- : 0:  activeadmin (1.0.0.pre) from /home/philip/.rvm/gems/ruby-2.0.0-p353/bundler/gems/active_admin-5b7fa25b1e0d/activeadmin.gemspec
+I, [2014-04-26T12:21:43.969393 #30556]  INFO -- : 0:  faker (1.2.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/faker-1.2.0.gemspec
+I, [2014-04-26T12:21:43.971129 #30556]  INFO -- : 0:  jbuilder (1.5.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/jbuilder-1.5.3.gemspec
+I, [2014-04-26T12:21:43.972800 #30556]  INFO -- : 0:  json (1.8.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+E, [2014-04-26T12:21:53.787609 #30556] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /home/philip/.rvm/rubies/ruby-2.0.0-p353/bin/ruby extconf.rb 
+checking for pg_config... no
+No pg_config... trying anyway. If building fails, please try again with
+ --with-pg-config=/path/to/pg_config
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/philip/.rvm/rubies/ruby-2.0.0-p353/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /home/philip/.rvm/gems/ruby-2.0.0-p353/gems/pg-0.17.1 for inspection.
+Results logged to /home/philip/.rvm/gems/ruby-2.0.0-p353/extensions/x86_64-linux/2.0.0/pg-0.17.1/gem_make.out
+
+/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:89:in `run'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/ext_conf_builder.rb:38:in `block in build'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/tempfile.rb:324:in `open'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:160:in `chdir'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:195:in `each'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/installer.rb:677:in `build_extensions'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/installer.rb:232:in `install'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/bin/bundle:23:in `load'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/bin/bundle:23:in `<main>'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/bin/ruby_executable_hooks:15:in `eval'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-04-26T12:26:27.537730 #30623]  INFO -- : 0:  rake (10.3.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rake-10.3.0.gemspec
+I, [2014-04-26T12:26:27.552784 #30623]  INFO -- : 0:  i18n (0.6.9) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/i18n-0.6.9.gemspec
+I, [2014-04-26T12:26:27.554435 #30623]  INFO -- : 0:  minitest (4.7.5) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/minitest-4.7.5.gemspec
+I, [2014-04-26T12:26:27.556957 #30623]  INFO -- : 0:  multi_json (1.9.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/multi_json-1.9.2.gemspec
+I, [2014-04-26T12:26:27.559181 #30623]  INFO -- : 0:  thread_safe (0.3.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/thread_safe-0.3.3.gemspec
+I, [2014-04-26T12:26:27.560749 #30623]  INFO -- : 0:  tzinfo (0.3.39) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/tzinfo-0.3.39.gemspec
+I, [2014-04-26T12:26:27.562288 #30623]  INFO -- : 0:  activesupport (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activesupport-4.0.2.gemspec
+I, [2014-04-26T12:26:27.563857 #30623]  INFO -- : 0:  builder (3.1.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/builder-3.1.4.gemspec
+I, [2014-04-26T12:26:27.565350 #30623]  INFO -- : 0:  erubis (2.7.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/erubis-2.7.0.gemspec
+I, [2014-04-26T12:26:27.566911 #30623]  INFO -- : 0:  rack (1.5.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-04-26T12:26:27.568403 #30623]  INFO -- : 0:  rack-test (0.6.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rack-test-0.6.2.gemspec
+I, [2014-04-26T12:26:27.569912 #30623]  INFO -- : 0:  actionpack (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/actionpack-4.0.2.gemspec
+I, [2014-04-26T12:26:27.571490 #30623]  INFO -- : 0:  mime-types (1.25.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/mime-types-1.25.1.gemspec
+I, [2014-04-26T12:26:27.573044 #30623]  INFO -- : 0:  polyglot (0.3.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/polyglot-0.3.4.gemspec
+I, [2014-04-26T12:26:27.574581 #30623]  INFO -- : 0:  treetop (1.4.15) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/treetop-1.4.15.gemspec
+I, [2014-04-26T12:26:27.576186 #30623]  INFO -- : 0:  mail (2.5.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/mail-2.5.4.gemspec
+I, [2014-04-26T12:26:27.577717 #30623]  INFO -- : 0:  actionmailer (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/actionmailer-4.0.2.gemspec
+I, [2014-04-26T12:26:27.579244 #30623]  INFO -- : 0:  arbre (1.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/arbre-1.0.1.gemspec
+I, [2014-04-26T12:26:27.580724 #30623]  INFO -- : 0:  sass (3.2.13) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sass-3.2.13.gemspec
+I, [2014-04-26T12:26:27.582323 #30623]  INFO -- : 0:  thor (0.19.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/thor-0.19.1.gemspec
+I, [2014-04-26T12:26:27.583896 #30623]  INFO -- : 0:  bourbon (3.1.8) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/bourbon-3.1.8.gemspec
+I, [2014-04-26T12:26:27.585411 #30623]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-04-26T12:26:27.586939 #30623]  INFO -- : 0:  execjs (2.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/execjs-2.0.2.gemspec
+I, [2014-04-26T12:26:27.588514 #30623]  INFO -- : 0:  coffee-script (2.2.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-script-2.2.0.gemspec
+I, [2014-04-26T12:26:27.590028 #30623]  INFO -- : 0:  railties (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/railties-4.0.2.gemspec
+I, [2014-04-26T12:26:27.591627 #30623]  INFO -- : 0:  coffee-rails (4.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-04-26T12:26:27.593104 #30623]  INFO -- : 0:  bcrypt (3.1.7) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/bcrypt-3.1.7.gemspec
+I, [2014-04-26T12:26:27.594679 #30623]  INFO -- : 0:  orm_adapter (0.5.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/orm_adapter-0.5.0.gemspec
+I, [2014-04-26T12:26:27.596190 #30623]  INFO -- : 0:  warden (1.2.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/warden-1.2.3.gemspec
+I, [2014-04-26T12:26:27.597766 #30623]  INFO -- : 0:  devise (3.2.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/devise-3.2.4.gemspec
+I, [2014-04-26T12:26:27.599373 #30623]  INFO -- : 0:  formtastic (2.3.0.rc3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/formtastic-2.3.0.rc3.gemspec
+I, [2014-04-26T12:26:27.600875 #30623]  INFO -- : 0:  has_scope (0.6.0.rc) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/has_scope-0.6.0.rc.gemspec
+I, [2014-04-26T12:26:27.602365 #30623]  INFO -- : 0:  responders (1.0.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/responders-1.0.0.gemspec
+I, [2014-04-26T12:26:27.603985 #30623]  INFO -- : 0:  inherited_resources (1.4.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/inherited_resources-1.4.1.gemspec
+I, [2014-04-26T12:26:27.605565 #30623]  INFO -- : 0:  jquery-rails (3.1.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-04-26T12:26:27.607198 #30623]  INFO -- : 0:  jquery-ui-rails (4.2.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/jquery-ui-rails-4.2.0.gemspec
+I, [2014-04-26T12:26:27.608754 #30623]  INFO -- : 0:  kaminari (0.15.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/kaminari-0.15.1.gemspec
+I, [2014-04-26T12:26:27.610298 #30623]  INFO -- : 0:  activemodel (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activemodel-4.0.2.gemspec
+I, [2014-04-26T12:26:27.611887 #30623]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-04-26T12:26:27.613430 #30623]  INFO -- : 0:  arel (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/arel-4.0.2.gemspec
+I, [2014-04-26T12:26:27.615018 #30623]  INFO -- : 0:  activerecord (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activerecord-4.0.2.gemspec
+I, [2014-04-26T12:26:27.616466 #30623]  INFO -- : 0:  bundler (1.5.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/bundler-1.5.1.gemspec
+I, [2014-04-26T12:26:27.617985 #30623]  INFO -- : 0:  hike (1.2.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/hike-1.2.3.gemspec
+I, [2014-04-26T12:26:27.619580 #30623]  INFO -- : 0:  tilt (1.4.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-04-26T12:26:27.621141 #30623]  INFO -- : 0:  sprockets (2.11.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sprockets-2.11.0.gemspec
+I, [2014-04-26T12:26:27.622794 #30623]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-04-26T12:26:27.624348 #30623]  INFO -- : 0:  rails (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rails-4.0.2.gemspec
+I, [2014-04-26T12:26:27.625900 #30623]  INFO -- : 0:  polyamorous (1.0.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/polyamorous-1.0.0.gemspec
+I, [2014-04-26T12:26:27.627531 #30623]  INFO -- : 0:  ransack (1.2.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/ransack-1.2.2.gemspec
+I, [2014-04-26T12:26:27.629065 #30623]  INFO -- : 0:  sass-rails (4.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sass-rails-4.0.1.gemspec
+I, [2014-04-26T12:26:29.472179 #30623]  INFO -- : 0:  activeadmin (1.0.0.pre) from /home/philip/.rvm/gems/ruby-2.0.0-p353/bundler/gems/active_admin-5b7fa25b1e0d/activeadmin.gemspec
+I, [2014-04-26T12:26:29.474144 #30623]  INFO -- : 0:  faker (1.2.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/faker-1.2.0.gemspec
+I, [2014-04-26T12:26:29.475826 #30623]  INFO -- : 0:  jbuilder (1.5.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/jbuilder-1.5.3.gemspec
+I, [2014-04-26T12:26:29.477427 #30623]  INFO -- : 0:  json (1.8.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+E, [2014-04-26T12:26:30.639103 #30623] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /home/philip/.rvm/rubies/ruby-2.0.0-p353/bin/ruby extconf.rb 
+checking for pg_config... no
+No pg_config... trying anyway. If building fails, please try again with
+ --with-pg-config=/path/to/pg_config
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/philip/.rvm/rubies/ruby-2.0.0-p353/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /home/philip/.rvm/gems/ruby-2.0.0-p353/gems/pg-0.17.1 for inspection.
+Results logged to /home/philip/.rvm/gems/ruby-2.0.0-p353/extensions/x86_64-linux/2.0.0/pg-0.17.1/gem_make.out
+
+/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:89:in `run'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/ext_conf_builder.rb:38:in `block in build'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/tempfile.rb:324:in `open'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:160:in `chdir'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:195:in `each'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/installer.rb:677:in `build_extensions'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/installer.rb:232:in `install'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/bin/bundle:23:in `load'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/bin/bundle:23:in `<main>'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/bin/ruby_executable_hooks:15:in `eval'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-04-26T12:32:00.535803 #32403]  INFO -- : 0:  rake (10.3.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rake-10.3.0.gemspec
+I, [2014-04-26T12:32:00.559321 #32403]  INFO -- : 0:  i18n (0.6.9) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/i18n-0.6.9.gemspec
+I, [2014-04-26T12:32:00.561854 #32403]  INFO -- : 0:  minitest (4.7.5) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/minitest-4.7.5.gemspec
+I, [2014-04-26T12:32:00.564323 #32403]  INFO -- : 0:  multi_json (1.9.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/multi_json-1.9.2.gemspec
+I, [2014-04-26T12:32:00.566741 #32403]  INFO -- : 0:  thread_safe (0.3.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/thread_safe-0.3.3.gemspec
+I, [2014-04-26T12:32:00.569471 #32403]  INFO -- : 0:  tzinfo (0.3.39) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/tzinfo-0.3.39.gemspec
+I, [2014-04-26T12:32:00.571633 #32403]  INFO -- : 0:  activesupport (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activesupport-4.0.2.gemspec
+I, [2014-04-26T12:32:00.573244 #32403]  INFO -- : 0:  builder (3.1.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/builder-3.1.4.gemspec
+I, [2014-04-26T12:32:00.574843 #32403]  INFO -- : 0:  erubis (2.7.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/erubis-2.7.0.gemspec
+I, [2014-04-26T12:32:00.576449 #32403]  INFO -- : 0:  rack (1.5.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-04-26T12:32:00.578877 #32403]  INFO -- : 0:  rack-test (0.6.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rack-test-0.6.2.gemspec
+I, [2014-04-26T12:32:00.580699 #32403]  INFO -- : 0:  actionpack (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/actionpack-4.0.2.gemspec
+I, [2014-04-26T12:32:00.582264 #32403]  INFO -- : 0:  mime-types (1.25.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/mime-types-1.25.1.gemspec
+I, [2014-04-26T12:32:00.583994 #32403]  INFO -- : 0:  polyglot (0.3.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/polyglot-0.3.4.gemspec
+I, [2014-04-26T12:32:00.587162 #32403]  INFO -- : 0:  treetop (1.4.15) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/treetop-1.4.15.gemspec
+I, [2014-04-26T12:32:00.589222 #32403]  INFO -- : 0:  mail (2.5.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/mail-2.5.4.gemspec
+I, [2014-04-26T12:32:00.591631 #32403]  INFO -- : 0:  actionmailer (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/actionmailer-4.0.2.gemspec
+I, [2014-04-26T12:32:00.593633 #32403]  INFO -- : 0:  arbre (1.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/arbre-1.0.1.gemspec
+I, [2014-04-26T12:32:00.596007 #32403]  INFO -- : 0:  sass (3.2.13) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sass-3.2.13.gemspec
+I, [2014-04-26T12:32:00.598071 #32403]  INFO -- : 0:  thor (0.19.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/thor-0.19.1.gemspec
+I, [2014-04-26T12:32:00.600148 #32403]  INFO -- : 0:  bourbon (3.1.8) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/bourbon-3.1.8.gemspec
+I, [2014-04-26T12:32:00.602707 #32403]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-04-26T12:32:00.604796 #32403]  INFO -- : 0:  execjs (2.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/execjs-2.0.2.gemspec
+I, [2014-04-26T12:32:00.606394 #32403]  INFO -- : 0:  coffee-script (2.2.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-script-2.2.0.gemspec
+I, [2014-04-26T12:32:00.608043 #32403]  INFO -- : 0:  railties (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/railties-4.0.2.gemspec
+I, [2014-04-26T12:32:00.609637 #32403]  INFO -- : 0:  coffee-rails (4.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-04-26T12:32:00.611266 #32403]  INFO -- : 0:  bcrypt (3.1.7) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/bcrypt-3.1.7.gemspec
+I, [2014-04-26T12:32:00.612831 #32403]  INFO -- : 0:  orm_adapter (0.5.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/orm_adapter-0.5.0.gemspec
+I, [2014-04-26T12:32:00.614390 #32403]  INFO -- : 0:  warden (1.2.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/warden-1.2.3.gemspec
+I, [2014-04-26T12:32:00.616026 #32403]  INFO -- : 0:  devise (3.2.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/devise-3.2.4.gemspec
+I, [2014-04-26T12:32:00.617614 #32403]  INFO -- : 0:  formtastic (2.3.0.rc3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/formtastic-2.3.0.rc3.gemspec
+I, [2014-04-26T12:32:00.619254 #32403]  INFO -- : 0:  has_scope (0.6.0.rc) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/has_scope-0.6.0.rc.gemspec
+I, [2014-04-26T12:32:00.620831 #32403]  INFO -- : 0:  responders (1.0.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/responders-1.0.0.gemspec
+I, [2014-04-26T12:32:00.622399 #32403]  INFO -- : 0:  inherited_resources (1.4.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/inherited_resources-1.4.1.gemspec
+I, [2014-04-26T12:32:00.624114 #32403]  INFO -- : 0:  jquery-rails (3.1.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-04-26T12:32:00.625787 #32403]  INFO -- : 0:  jquery-ui-rails (4.2.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/jquery-ui-rails-4.2.0.gemspec
+I, [2014-04-26T12:32:00.627475 #32403]  INFO -- : 0:  kaminari (0.15.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/kaminari-0.15.1.gemspec
+I, [2014-04-26T12:32:00.629025 #32403]  INFO -- : 0:  activemodel (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activemodel-4.0.2.gemspec
+I, [2014-04-26T12:32:00.630634 #32403]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-04-26T12:32:00.632211 #32403]  INFO -- : 0:  arel (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/arel-4.0.2.gemspec
+I, [2014-04-26T12:32:00.633782 #32403]  INFO -- : 0:  activerecord (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activerecord-4.0.2.gemspec
+I, [2014-04-26T12:32:00.635459 #32403]  INFO -- : 0:  bundler (1.5.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/bundler-1.5.1.gemspec
+I, [2014-04-26T12:32:00.637103 #32403]  INFO -- : 0:  hike (1.2.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/hike-1.2.3.gemspec
+I, [2014-04-26T12:32:00.638667 #32403]  INFO -- : 0:  tilt (1.4.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-04-26T12:32:00.640352 #32403]  INFO -- : 0:  sprockets (2.11.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sprockets-2.11.0.gemspec
+I, [2014-04-26T12:32:00.641919 #32403]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-04-26T12:32:00.643548 #32403]  INFO -- : 0:  rails (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rails-4.0.2.gemspec
+I, [2014-04-26T12:32:00.645115 #32403]  INFO -- : 0:  polyamorous (1.0.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/polyamorous-1.0.0.gemspec
+I, [2014-04-26T12:32:00.646728 #32403]  INFO -- : 0:  ransack (1.2.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/ransack-1.2.2.gemspec
+I, [2014-04-26T12:32:00.648302 #32403]  INFO -- : 0:  sass-rails (4.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sass-rails-4.0.1.gemspec
+I, [2014-04-26T12:32:02.644399 #32403]  INFO -- : 0:  activeadmin (1.0.0.pre) from /home/philip/.rvm/gems/ruby-2.0.0-p353/bundler/gems/active_admin-5b7fa25b1e0d/activeadmin.gemspec
+I, [2014-04-26T12:32:02.646337 #32403]  INFO -- : 0:  faker (1.2.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/faker-1.2.0.gemspec
+I, [2014-04-26T12:32:02.648076 #32403]  INFO -- : 0:  jbuilder (1.5.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/jbuilder-1.5.3.gemspec
+I, [2014-04-26T12:32:02.649711 #32403]  INFO -- : 0:  json (1.8.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+E, [2014-04-26T12:32:04.529001 #32403] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /home/philip/.rvm/rubies/ruby-2.0.0-p353/bin/ruby extconf.rb 
+checking for pg_config... yes
+Using config values from /usr/bin/pg_config
+You need to install postgresql-server-dev-X.Y for building a server-side extension or libpq-dev for building a client-side application.
+You need to install postgresql-server-dev-X.Y for building a server-side extension or libpq-dev for building a client-side application.
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/philip/.rvm/rubies/ruby-2.0.0-p353/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /home/philip/.rvm/gems/ruby-2.0.0-p353/gems/pg-0.17.1 for inspection.
+Results logged to /home/philip/.rvm/gems/ruby-2.0.0-p353/extensions/x86_64-linux/2.0.0/pg-0.17.1/gem_make.out
+
+/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:89:in `run'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/ext_conf_builder.rb:38:in `block in build'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/tempfile.rb:324:in `open'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:160:in `chdir'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:195:in `each'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/installer.rb:677:in `build_extensions'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/installer.rb:232:in `install'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/home/philip/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/bin/bundle:23:in `load'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/bin/bundle:23:in `<main>'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/bin/ruby_executable_hooks:15:in `eval'  \n/home/philip/.rvm/gems/ruby-2.0.0-p353/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-04-26T12:34:46.236306 #1307]  INFO -- : 0:  rake (10.3.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rake-10.3.0.gemspec
+I, [2014-04-26T12:34:46.238481 #1307]  INFO -- : 0:  i18n (0.6.9) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/i18n-0.6.9.gemspec
+I, [2014-04-26T12:34:46.240234 #1307]  INFO -- : 0:  minitest (4.7.5) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/minitest-4.7.5.gemspec
+I, [2014-04-26T12:34:46.241824 #1307]  INFO -- : 0:  multi_json (1.9.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/multi_json-1.9.2.gemspec
+I, [2014-04-26T12:34:46.243509 #1307]  INFO -- : 0:  thread_safe (0.3.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/thread_safe-0.3.3.gemspec
+I, [2014-04-26T12:34:46.245095 #1307]  INFO -- : 0:  tzinfo (0.3.39) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/tzinfo-0.3.39.gemspec
+I, [2014-04-26T12:34:46.246797 #1307]  INFO -- : 0:  activesupport (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activesupport-4.0.2.gemspec
+I, [2014-04-26T12:34:46.248384 #1307]  INFO -- : 0:  builder (3.1.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/builder-3.1.4.gemspec
+I, [2014-04-26T12:34:46.249907 #1307]  INFO -- : 0:  erubis (2.7.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/erubis-2.7.0.gemspec
+I, [2014-04-26T12:34:46.251523 #1307]  INFO -- : 0:  rack (1.5.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-04-26T12:34:46.253071 #1307]  INFO -- : 0:  rack-test (0.6.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rack-test-0.6.2.gemspec
+I, [2014-04-26T12:34:46.254662 #1307]  INFO -- : 0:  actionpack (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/actionpack-4.0.2.gemspec
+I, [2014-04-26T12:34:46.256195 #1307]  INFO -- : 0:  mime-types (1.25.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/mime-types-1.25.1.gemspec
+I, [2014-04-26T12:34:46.257712 #1307]  INFO -- : 0:  polyglot (0.3.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/polyglot-0.3.4.gemspec
+I, [2014-04-26T12:34:46.259311 #1307]  INFO -- : 0:  treetop (1.4.15) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/treetop-1.4.15.gemspec
+I, [2014-04-26T12:34:46.260855 #1307]  INFO -- : 0:  mail (2.5.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/mail-2.5.4.gemspec
+I, [2014-04-26T12:34:46.262481 #1307]  INFO -- : 0:  actionmailer (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/actionmailer-4.0.2.gemspec
+I, [2014-04-26T12:34:46.264072 #1307]  INFO -- : 0:  arbre (1.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/arbre-1.0.1.gemspec
+I, [2014-04-26T12:34:46.265645 #1307]  INFO -- : 0:  sass (3.2.13) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sass-3.2.13.gemspec
+I, [2014-04-26T12:34:46.267336 #1307]  INFO -- : 0:  thor (0.19.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/thor-0.19.1.gemspec
+I, [2014-04-26T12:34:46.268876 #1307]  INFO -- : 0:  bourbon (3.1.8) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/bourbon-3.1.8.gemspec
+I, [2014-04-26T12:34:46.270435 #1307]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-04-26T12:34:46.272036 #1307]  INFO -- : 0:  execjs (2.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/execjs-2.0.2.gemspec
+I, [2014-04-26T12:34:46.273568 #1307]  INFO -- : 0:  coffee-script (2.2.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-script-2.2.0.gemspec
+I, [2014-04-26T12:34:46.275173 #1307]  INFO -- : 0:  railties (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/railties-4.0.2.gemspec
+I, [2014-04-26T12:34:46.276756 #1307]  INFO -- : 0:  coffee-rails (4.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-04-26T12:34:46.278276 #1307]  INFO -- : 0:  bcrypt (3.1.7) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/bcrypt-3.1.7.gemspec
+I, [2014-04-26T12:34:46.279897 #1307]  INFO -- : 0:  orm_adapter (0.5.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/orm_adapter-0.5.0.gemspec
+I, [2014-04-26T12:34:46.281420 #1307]  INFO -- : 0:  warden (1.2.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/warden-1.2.3.gemspec
+I, [2014-04-26T12:34:46.283023 #1307]  INFO -- : 0:  devise (3.2.4) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/devise-3.2.4.gemspec
+I, [2014-04-26T12:34:46.284639 #1307]  INFO -- : 0:  formtastic (2.3.0.rc3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/formtastic-2.3.0.rc3.gemspec
+I, [2014-04-26T12:34:46.286163 #1307]  INFO -- : 0:  has_scope (0.6.0.rc) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/has_scope-0.6.0.rc.gemspec
+I, [2014-04-26T12:34:46.287739 #1307]  INFO -- : 0:  responders (1.0.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/responders-1.0.0.gemspec
+I, [2014-04-26T12:34:46.289308 #1307]  INFO -- : 0:  inherited_resources (1.4.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/inherited_resources-1.4.1.gemspec
+I, [2014-04-26T12:34:46.290941 #1307]  INFO -- : 0:  jquery-rails (3.1.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-04-26T12:34:46.292511 #1307]  INFO -- : 0:  jquery-ui-rails (4.2.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/jquery-ui-rails-4.2.0.gemspec
+I, [2014-04-26T12:34:46.294088 #1307]  INFO -- : 0:  kaminari (0.15.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/kaminari-0.15.1.gemspec
+I, [2014-04-26T12:34:46.295692 #1307]  INFO -- : 0:  activemodel (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activemodel-4.0.2.gemspec
+I, [2014-04-26T12:34:46.297305 #1307]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-04-26T12:34:46.298986 #1307]  INFO -- : 0:  arel (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/arel-4.0.2.gemspec
+I, [2014-04-26T12:34:46.300549 #1307]  INFO -- : 0:  activerecord (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/activerecord-4.0.2.gemspec
+I, [2014-04-26T12:34:46.302024 #1307]  INFO -- : 0:  bundler (1.5.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/bundler-1.5.1.gemspec
+I, [2014-04-26T12:34:46.303712 #1307]  INFO -- : 0:  hike (1.2.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/hike-1.2.3.gemspec
+I, [2014-04-26T12:34:46.305246 #1307]  INFO -- : 0:  tilt (1.4.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-04-26T12:34:46.306870 #1307]  INFO -- : 0:  sprockets (2.11.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sprockets-2.11.0.gemspec
+I, [2014-04-26T12:34:46.308415 #1307]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-04-26T12:34:46.310040 #1307]  INFO -- : 0:  rails (4.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rails-4.0.2.gemspec
+I, [2014-04-26T12:34:46.311652 #1307]  INFO -- : 0:  polyamorous (1.0.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/polyamorous-1.0.0.gemspec
+I, [2014-04-26T12:34:46.313311 #1307]  INFO -- : 0:  ransack (1.2.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/ransack-1.2.2.gemspec
+I, [2014-04-26T12:34:46.314935 #1307]  INFO -- : 0:  sass-rails (4.0.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sass-rails-4.0.1.gemspec
+I, [2014-04-26T12:34:48.162155 #1307]  INFO -- : 0:  activeadmin (1.0.0.pre) from /home/philip/.rvm/gems/ruby-2.0.0-p353/bundler/gems/active_admin-5b7fa25b1e0d/activeadmin.gemspec
+I, [2014-04-26T12:34:48.164187 #1307]  INFO -- : 0:  faker (1.2.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/faker-1.2.0.gemspec
+I, [2014-04-26T12:34:48.165803 #1307]  INFO -- : 0:  jbuilder (1.5.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/jbuilder-1.5.3.gemspec
+I, [2014-04-26T12:34:48.167666 #1307]  INFO -- : 0:  json (1.8.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+I, [2014-04-26T12:35:24.906071 #1307]  INFO -- : 0:  pg (0.17.1) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/pg-0.17.1.gemspec
+I, [2014-04-26T12:35:24.908309 #1307]  INFO -- : 0:  rails_serve_static_assets (0.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rails_serve_static_assets-0.0.2.gemspec
+I, [2014-04-26T12:35:24.910140 #1307]  INFO -- : 0:  rails_stdout_logging (0.0.3) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rails_stdout_logging-0.0.3.gemspec
+I, [2014-04-26T12:35:24.911949 #1307]  INFO -- : 0:  rails_12factor (0.0.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rails_12factor-0.0.2.gemspec
+I, [2014-04-26T12:35:24.913758 #1307]  INFO -- : 0:  rdoc (3.12.2) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/rdoc-3.12.2.gemspec
+I, [2014-04-26T12:35:24.915508 #1307]  INFO -- : 0:  sdoc (0.3.20) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/sdoc-0.3.20.gemspec
+I, [2014-04-26T12:35:24.917188 #1307]  INFO -- : 0:  turbolinks (2.1.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/turbolinks-2.1.0.gemspec
+I, [2014-04-26T12:35:24.918959 #1307]  INFO -- : 0:  uglifier (2.4.0) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/uglifier-2.4.0.gemspec
+I, [2014-04-26T12:35:24.920778 #1307]  INFO -- : 0:  will_paginate (3.0.5) from /home/philip/.rvm/gems/ruby-2.0.0-p353/specifications/will_paginate-3.0.5.gemspec
