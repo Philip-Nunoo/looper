@@ -39,10 +39,11 @@ my Gem files
 
 gem 'activeadmin', github: 'gregbell/active_admin'
 
-gem 'will_paginate', '~> 3.0.5'
+# gem 'will_paginate' , '~> 3.0.5'
 
 gem 'faker'
 
+gem "kaminari"#, "~> 0.13.0"
 gem 'rails_12factor', group: :production
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
